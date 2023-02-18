@@ -2,7 +2,7 @@
 
 # Define variables
 num1 = 5
-num2 = 3
+num2 = 4
 
 # Add the two numbers
 sum = num1 + num2
